@@ -108,6 +108,7 @@ section#calculator-display::after /* Gère surtout l'ombre du haut */
 section#calculator-display #result
 {
     padding-right: 2.5%;
+    text-align: right;
 }
 
 /* ----- Clavier de la Calculatrice ----- */
