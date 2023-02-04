@@ -1,3 +1,5 @@
+alert('La calculatrice essaye de communiquer avec vous... Ouvrez la console pour savoir ce qu\'elle vous dit');
+
 // Variable pour stocker les résultats pour faire des calculs 'En chaîne'
 let total = 0;
 
